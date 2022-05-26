@@ -3,5 +3,6 @@ Proyecto Web creado para realizar prácticas .(El proyecto se encuentra en desar
 
 Tecnologías :
 Python,Django, PostgreSQL,SQLAlchemy
+HTML,CSS,Bootstarp
 
 
